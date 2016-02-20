@@ -31,7 +31,6 @@ Absentees: `Deergha`
 ### Barkha
 - [ ] Compile current documents to create draft_1 of SRS by Saturday night. (add appendix for interview take from saloni)
 
-
 ### Kuljeet
 - [ ] Compile current documents to create draft_1 of SRS by Saturday night.
 

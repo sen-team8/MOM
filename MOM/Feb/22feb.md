@@ -35,11 +35,18 @@ Time: 6.00 pm
 Deadline: Tuesday 23 Feb 2016
 Time: 12.00 pm
 
-### Assigned tasks
+## Assigned tasks
+
+### Everyone
+- [ ] Ch1, Ch2
+- [ ] Ch 3 Agile Development
+
+[click here for pdf](https://www.dropbox.com/s/q8gkjrjl3cdhk7n/Roger%20S%20Pressman-Software%20engineering%20_%20a%20practitioner%27s%20approach-McGraw-Hill%20Higher%20Education%20%282010%29.pdf?dl=0)
 
 ### Kushan, Kuljeet, Nihit, Vadhir, Dushyant
 - [ ] Section 3, 4, 5 of SRS
 - [ ] Read Agile + scrum + Kanban models
+
 
 ### Nidhi
 - [ ] Appendix of SRS (add surveys, analysis and the interviews)

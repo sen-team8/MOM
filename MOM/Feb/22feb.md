@@ -57,7 +57,7 @@ Time: 12.00 pm
 ### Saloni, Barkha
 - [ ] Review the project plan
 
-### Barkha, Saloni, Deergha
+### Barkha, Saloni, Deergha, Nidhi
 - [ ] Section 1 and 2 of SRS
 - [ ] UML diagrams of SRS
 - [ ] Read Agile + scrum + Kanban models

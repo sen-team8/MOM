@@ -6,7 +6,7 @@ Absentees: `None`
 
 ### Agenda
 1.  Take survey responses
-2.  Me and saloni have to learn Markdown  
+2.  Deergha and Saloni have to learn Markdown  
 
 ### Points Decided
 * **FRIDAY(night)** Learn React (TODO APP)
@@ -14,29 +14,29 @@ Absentees: `None`
 ### Assigned tasks
 
 ### Kushan
-- [ ] 2nd year
+- [ ] Take survey of B. Tech 2nd year students.
 
 ### Nidhi
-- [ ] 4th year
+- [ ] Take survey of B.Tech 4th year students.
 
 ### Barkha
-- [ ] Mtech 
+- [ ] Take survey of Mtech students. 
 
 ### Kuljeet
-- [ ] 1st year
+- [ ] Take survey of B.Tech 1st year students.
 
 ### Nihit 
-- [ ] 3rd year
+- [ ] Take survey of B.Tech 3rd year students.
 
 ### Vadhir 
-- [ ] 3rd year
+- [ ] Take survey of B.Tech 3rd year students.
 
 ### Deergha
-- [ ] 1rd year
+- [ ] Take survey of B.Tech 1st year students.
 
 ### Saloni 
-- [ ] MscIT / Mdes
+- [ ] Take surey of MscIT / Mdes students.
 
 ### Dushyant 
-- [ ] 2rd year
+- [ ] Take survey of B.Tech 2rd year students.
 

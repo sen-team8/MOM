@@ -6,7 +6,6 @@
 
 Absentees: `None`
 
-This meeting was called impromptu to change a few norms that we discussed before. Firstly, the platform to keep the documentation and MOM was under debate. We have finalized to use git and markdown for our MOMs. Secondly, we have decided to maintain a personal log of our work and update it on git (send a PR) on the sunday of every week to maintain transparency in our work and duties. System test plan, design and coding related work to be assigned next week.
 
 This meeting was called to track the progress on the surveys and to assign deadlines to some new tasks. Firstly we discussed on how to start on our System test plan. A new task which is to go through a ReactJS tutorial was assigned and a deadline for the same was decided. Work regarding the individual issues that were created on Github was assigned to the maintainer of that issue. We also discussed on when to start on our design document
 ## Update in tasks and deadlines:

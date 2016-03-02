@@ -8,20 +8,20 @@ Absentees: `None`
 This meeting was called impromptu to change a few norms that we discussed before. Firstly, the platform to keep the documentation and MOM was under debate. We have finalized to use git and markdown for our MOMs. Secondly, we have decided to maintain a personal log of our work and update it on git (send a PR) on the sunday of every week to maintain transparency in our work and duties. System test plan, design and coding related work to be assigned next week.
 
 This meeting was called to track the progress on the surveys and to assign deadlines to some new tasks. Firstly we discussed on how to start on our System test plan. A new task which is to go through a ReactJS tutorial was assigned and a deadline for the same was decided. Work regarding the individual issues that were created on Github was assigned to the maintainer of that issue. We also discussed on when to start on our design document
-#### Update in tasks and deadlines:
+## Update in tasks and deadlines:
 
-#General
+###General
 * Collect a minimum of 40 surveys per person before 6 p.m. 3rd March.
 * All other tasks and deadlines remain same as before.
 
-#Kuljeet
+###Kuljeet
 * Upload links to System Test Plan document examples on the issue on Github.
 
-#Nihit
+###Nihit
 * Upload links to individual repositories to the To-Do app issue created on Github after everybody is done with the To-Do App.
 
-#Barkha and Dushyant
+###Barkha and Dushyant
 * Upload skeleton of System Test Plan and examples of the same on Drive.
 
-#Kushan and Nidhi
+###Kushan and Nidhi
 * Complete analysis of survey responses by 3rd March.

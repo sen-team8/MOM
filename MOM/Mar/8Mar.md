@@ -1,4 +1,4 @@
-5th Mar' 16
+8th Mar' 16
 ============
 *6.00 pm, CEP ground floor*
 

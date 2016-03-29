@@ -13,23 +13,31 @@ Absentees: `None`
 ### Saloni & Deergha
 - [ ] README.md by tommorrow
 - [ ] Login component by today
+
 ### Deergha
 - [ ] Code-of-conduct
+
 ### Barkha
 - [ ] Integration of icons
+
 ### Kuljeet
 - [ ] fix TODO bugs
+
 ### Vadhir
 - [ ] Setting Bootstrap for TODO app by today
+
 ### Nihit
 - [ ] Homepage Backend
+
 ### Nidhi
 - [ ] Icons for webapp
 - [ ] Research on testing libraries
+
 ### Dushyant
 - [ ] CONTRIBUTING.md
 - [ ] get verified E-R and Class diagrams
 - [ ] coding-convention.md
+
 ### Kushan
 - [ ] Testing integartion
 - [ ] React router

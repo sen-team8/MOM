@@ -2,10 +2,9 @@
 ============
 *6 pm, CEP ground floor*
 
-## Assigned tasks
+
 ### Dushyant & Deergha
 - [ ] Complete R3MP (Risk management, monitoring and mitigation plan) document by tonight.
-- 
 
 ### Saloni
 - [ ] Review code of conduct 

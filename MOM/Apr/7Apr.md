@@ -1,29 +1,35 @@
-7th April ' 16
-============
-*9.30 pm, CEP Ground Floor*
+7 Apr ' 16
+===========
+*4 pm, Lab building*
 
-Absentees: `Nidhi,Deergha`
+Absentees: `Vadhir`
+
+## Agenda
+1.  To discuss the coding progress.
+2.  To discuss and assign new work.
+3.	To discuss the remaining documents.
+
+## Assigned tasks
 
 ### Dushyant
-- [ ] Complete R3MP 
+- [ ] R3MP (Risk management, monitoring and mitigation plan) document
+
+### Deergha
+- [ ] Make a folder consisting of photos of all the professors of DA and their name as visible on intranet.
 
 ### Saloni
-- [ ] Review and add to the risk management document 
-- [ ] Help in fixing UI
+- [ ] User Manual
 
-### Kuljeet
- - [ ] Add to the test cases
-
-### Nihit
-- [ ] Continue working on chatroom application
- 
- ### Kushan
- - [ ] Begin working on the webmail widget
+### Kuljeet and Nidhi
+- [ ] Test Cases document
 
 ### Barkha
-- [ ] Fix interfaces of sidebar and the todo widget 
+- [ ] Review RM3P
 
-### Vadhir
-- [ ] Fix interface of intranet widget
- 
+### Nihit
+- [ ] Test Cases and ui
+- [ ] UI for chat room widget.
 
+### Kushan
+- [ ] Test cases
+- [ ] Complete todo, webmail and intranet.

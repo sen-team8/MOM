@@ -36,4 +36,4 @@ Absentees: `Deergha`
 
 ### Barkha
 - [x] UI intranet (Done)
-- [ ] Review RMMMMP
+- [ ] Review RMMMP

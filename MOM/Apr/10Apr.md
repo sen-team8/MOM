@@ -1,46 +1,70 @@
 10 Apr ' 16
 ===========
-*6 pm , CEP ground floor*
+*2 pm, CEP Ground Floor*
 
-Mom taken by- Saloni
-
-Absentees: `Deergha`
+Absentees: `Kuljeet, Nihit`
 
 ## Agenda
 1.  To discuss the coding progress.
 2.  To discuss and assign new work.
-3.  To discuss the documents completed and left.
+3.	To discuss the remaining documents and assign reviewers.
+4. 	To discuss the current interface of the application.
 
-## Tasks
-
-### Nidhi
-- [ ] Complete Test Cases
-- [ ] Understand agile model
-- [ ] Help Deergha in writing testing report
-
-### Vadhir
-- [ ] Start writing Deployment plan
-
-### Kuljeet
-- [ ] Complete testcases of webmail.
-- [ ] Assign work for Test reports.
-
-### Saloni
-- [ ] Complete User manual.
-- [ ] Review documents
-- [ ] Make gantt chart with Barkha
-
-### Kushan
-- [ ] Complete and review design document
-
-### Nihit
-- [ ] Complete todo
-- [ ] Complete redux
-- [ ] Complete login
+## Assigned tasks
 
 ### Dushyant
-- Complete class and ER diagram.
+- [ ] Edit the design document and make sure it is up to date.
+- [ ] Add to the test cases document
+
+### Deergha
+- [ ] Add to the tools and libraries document.
+
+### Saloni
+- [ ] User Manual
+- [ ] Begin reviewing documents 
+- [ ] Check for consistency
+
+### Nidhi
+- [ ] Test Cases document
+- [ ] Review in detail the agile model and assure that documents are in sync with the model.
 
 ### Barkha
-- [ ] Make gantt chart
-- [ ] Review RMMMP
+- [ ] Review RM3P
+- [ ] Edit the documents that need immediate reviews.	
+- [ ] Cost estimation document
+
+### Nihit
+- [ ] Continue working on the application.
+
+### Kushan
+- [ ] Test cases
+- [ ] Begin webmail.
+
+### Kuljeet
+- [ ] Keep adding to the test cases
+
+### Vadhir
+- [ ] Update user interfaces
+
+
+## Documents that need to be made:
+1.	Test Cases
+2.	Test Report
+3.	Deployment Plan
+4.	Gantt Chart
+5.	Cost Estimation Document (from the Project Plan)
+
+
+## Documents that need to immediately reviewed:
+1.	SCMP
+2.	SQAP
+3.	Coding Conventions
+4.	Tools and Libraries
+5.	Code of Conduct
+6.	User manual
+7.	Design document
+
+
+## Documents that need to be reviewed later:
+1.	Termination Analysis
+
